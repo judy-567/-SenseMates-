@@ -27,7 +27,7 @@ const buddyCopy = {
 const questions = [
   {
     id: "q4",
-    number: 4,
+    number: 1,
     section: "食品与饮品偏好 / Food & Beverage Preferences",
     zh: "今天想先尝哪几样？",
     en: "Which food options would you most like to try at the event?",
@@ -44,7 +44,7 @@ const questions = [
   },
   {
     id: "q5",
-    number: 5,
+    number: 2,
     section: "食品与饮品偏好 / Food & Beverage Preferences",
     zh: "最想来一杯什么？",
     en: "Which drinks would you most like to choose at the event?",
@@ -60,7 +60,7 @@ const questions = [
   },
   {
     id: "q6",
-    number: 6,
+    number: 3,
     section: "娱乐与手工活动 / Entertainment & DIY Activities",
     zh: "哪些游戏最吸引你？",
     en: "Which games appeal to you most?",
@@ -75,7 +75,7 @@ const questions = [
   },
   {
     id: "q7",
-    number: 7,
+    number: 4,
     section: "娱乐与手工活动 / Entertainment & DIY Activities",
     zh: "想动手做哪几样？",
     en: "Which DIY activities would you most like to join?",
@@ -108,7 +108,7 @@ const questions = [
   },
   {
     id: "q8",
-    number: 8,
+    number: 5,
     section: "公益与主题教育活动 / Charity & Awareness Activities",
     zh: "你最希望我们关注哪个议题？",
     en: "Which cause would you most like the event’s charity and awareness activities to support?",
@@ -123,10 +123,10 @@ const questions = [
   },
   {
     id: "q9",
-    number: 9,
+    number: 6,
     section: "公益与主题教育活动 / Charity & Awareness Activities",
-    zh: "公益与主题教育区，你最想参加哪一项？",
-    en: "Which activity would you most like to join in the charity and awareness area?",
+    zh: "你最想参加哪一项？",
+    en: "Which activity would you most like to join?",
     instruction: "请选择一个答案。 / Choose one answer.",
     type: "single",
     layout: "photo",
@@ -158,7 +158,7 @@ const questions = [
   },
   {
     id: "q10",
-    number: 10,
+    number: 7,
     section: "整体活动体验与票价 / Overall Event Experience & Ticket Price",
     zh: "你为什么想来 SenseMates？",
     en: "What would be your main reason for attending SenseMates?",
@@ -174,7 +174,7 @@ const questions = [
   },
   {
     id: "q11",
-    number: 11,
+    number: 8,
     section: "整体活动体验与票价 / Overall Event Experience & Ticket Price",
     zh: "哪个时间最方便你？",
     en: "Which time slot would be most convenient for you to attend?",
@@ -189,7 +189,7 @@ const questions = [
   },
   {
     id: "q12",
-    number: 12,
+    number: 9,
     section: "整体活动体验与票价 / Overall Event Experience & Ticket Price",
     zh: "你最可能购买哪一种票？",
     en: "Which of the following proposed ticket options would you be most likely to purchase?",
@@ -219,7 +219,7 @@ const questions = [
   },
   {
     id: "q13",
-    number: 13,
+    number: 10,
     section: "最后一题 / One Last Thing",
     zh: "还有什么想告诉我们？",
     en: "Do you have any other suggestions?",
